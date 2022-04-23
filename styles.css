@@ -1,0 +1,63 @@
+body {
+  padding: 0%;
+  margin: 0%;
+}
+.logo {
+  margin-top: -30px;
+  margin-left: 20%;
+}
+.arama {
+  text-align: center;
+  margin-top: -50px;
+  background-color: #ede6db;
+  position: relative;
+}
+input[type="text"] {
+  width: 30%;
+  height: 20px;
+  margin-bottom: 10px;
+}
+input[type="submit"] {
+  width: 10%;
+}
+input[type="button"] {
+  width: 10%;
+  display: inline;
+}
+.container {
+  margin-top: 7px;
+  display: flex;  
+}
+.container1 {
+  background-color: #40dfef;
+  width: 38%;
+  text-align: center;
+  font-size: 18px;
+  margin-left: 0%;
+  float: left;
+  
+
+}
+.container2 {
+  background-color: #a1e3d8;
+  float: left;
+  width: 19%;
+  text-align: center;
+  
+  font-size: 14px;
+  margin-left: 7px;
+}
+.container3 {
+  float: left;
+  background-color: #55d8c1;
+  margin-left: 7px;
+  text-align: center;
+  font-size: 13px;
+  width: 42%;
+ 
+  
+}
+#copy{    
+    text-align: center;
+
+}
